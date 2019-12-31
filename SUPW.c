@@ -1,3 +1,4 @@
+"https://www.codechef.com/ZCOPRAC/problems/ZCO14002"
 #include <stdio.h>
 #define MIN(a,b) ((a) < (b)  ? (a) : (b) )
 #define MIN_THREE(a,b,c) MIN(MIN(a,b),c)
